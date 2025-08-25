@@ -1,0 +1,21 @@
+preferred_category,age_categories,customer_count,top_categories
+Sports,adults,51,1
+Electronics,adults,47,2
+Groceries,adults,46,3
+"Home & Garden",adults,46,3
+Clothing,adults,32,4
+"Home & Garden","middle-aged adults",59,1
+Sports,"middle-aged adults",57,2
+Electronics,"middle-aged adults",57,2
+Groceries,"middle-aged adults",53,3
+Clothing,"middle-aged adults",53,3
+Electronics,seniors,59,1
+Sports,seniors,59,1
+Groceries,seniors,55,2
+"Home & Garden",seniors,55,2
+Clothing,seniors,47,3
+Electronics,"young adults",52,1
+"Home & Garden","young adults",46,2
+Groceries,"young adults",45,3
+Sports,"young adults",43,4
+Clothing,"young adults",38,5

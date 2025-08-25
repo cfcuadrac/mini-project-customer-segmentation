@@ -1,0 +1,16 @@
+gender,preferred_category,customer_count_per_category,top_categories
+Female,"Home & Garden",68,1
+Female,Groceries,66,2
+Female,Electronics,65,3
+Female,Sports,61,4
+Female,Clothing,56,5
+Male,"Home & Garden",77,1
+Male,Sports,77,1
+Male,Electronics,76,2
+Male,Groceries,71,3
+Male,Clothing,56,4
+Other,Electronics,74,1
+Other,Sports,72,2
+Other,Groceries,62,3
+Other,"Home & Garden",61,4
+Other,Clothing,58,5
